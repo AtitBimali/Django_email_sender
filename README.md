@@ -1,6 +1,6 @@
 # Django_email_sender
 Django app to automate emails.
-Add your gmail and password in settings.py located inside email_sender folder (at line number 125 & 126)
+Add your gmail and password in settings.py located inside email_sender folder (at line number 126 & 127)
 Also turn on less secure apps : https://myaccount.google.com/u/2/lesssecureapps 
 This features enables us to use our gmail account to send mails.
 
