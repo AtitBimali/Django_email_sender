@@ -4,6 +4,16 @@ Add your gmail and password in settings.py located inside email_sender folder (a
 Also turn on less secure apps : https://myaccount.google.com/u/2/lesssecureapps 
 This features enables us to use our gmail account to send mails.
 
+First Thing To Do:
+```
+python manage.py magemigrations
+```
+
+```
+python manage.py migrate
+```
+
+
 Running the app:
 ``` 
 Python manage.py runserver
