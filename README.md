@@ -6,7 +6,7 @@ This features enables us to use our gmail account to send mails.
 
 First Thing To Do:
 ```
-python manage.py magemigrations
+python manage.py makemigrations
 ```
 
 ```
